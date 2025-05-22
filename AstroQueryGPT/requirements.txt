@@ -1,0 +1,7 @@
+openai
+streamlit
+pandas
+requests
+plotly
+python-dotenv
+sentence-transformers==2.2.2

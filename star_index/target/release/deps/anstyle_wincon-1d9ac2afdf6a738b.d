@@ -1,0 +1,10 @@
+C:\Users\pracu\OneDrive\Desktop\Nakshatra\Space Stuff\star_index\target\release\deps\libanstyle_wincon-1d9ac2afdf6a738b.rmeta: C:\Users\pracu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.8\src\lib.rs C:\Users\pracu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.8\src\ansi.rs C:\Users\pracu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.8\src\stream.rs C:\Users\pracu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.8\src\windows.rs
+
+C:\Users\pracu\OneDrive\Desktop\Nakshatra\Space Stuff\star_index\target\release\deps\libanstyle_wincon-1d9ac2afdf6a738b.rlib: C:\Users\pracu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.8\src\lib.rs C:\Users\pracu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.8\src\ansi.rs C:\Users\pracu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.8\src\stream.rs C:\Users\pracu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.8\src\windows.rs
+
+C:\Users\pracu\OneDrive\Desktop\Nakshatra\Space Stuff\star_index\target\release\deps\anstyle_wincon-1d9ac2afdf6a738b.d: C:\Users\pracu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.8\src\lib.rs C:\Users\pracu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.8\src\ansi.rs C:\Users\pracu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.8\src\stream.rs C:\Users\pracu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.8\src\windows.rs
+
+C:\Users\pracu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.8\src\lib.rs:
+C:\Users\pracu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.8\src\ansi.rs:
+C:\Users\pracu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.8\src\stream.rs:
+C:\Users\pracu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.8\src\windows.rs:
