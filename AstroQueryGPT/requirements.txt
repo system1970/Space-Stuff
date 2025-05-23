@@ -5,3 +5,5 @@ requests
 plotly
 python-dotenv
 sentence-transformers==2.2.2
+pytest
+pytest-mock
